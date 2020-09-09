@@ -1,4 +1,3 @@
-# Welcome to Evalle's blog
 
 ## Posts
 - [example-09/09/20](09-09-20.md)
