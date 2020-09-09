@@ -1,6 +1,6 @@
 
 ## Posts
-- [example-09/09/20](09-09-20.md)
+- [example-09/09/20](https://evalle.github.io/blog/09-09-20)
 
 ## Support or Contact
 
