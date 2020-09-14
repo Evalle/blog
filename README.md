@@ -12,3 +12,4 @@ Thank you.
 ### Posts
 - [17/05/18 - The Strange Case of Frequent Abnormal Restarts of kube-apiserver](https://evalle.github.io/blog/20180517-apiserver)
 - [21/05/19 - How to Configure Kube-apiserver in Minikube](https://evalle.github.io/blog/20190521-configure-kube-apiserver-in-minikube)
+- [14/09/20 - How to Change the Timezone in Kubernetes](https://evalle.github.io/blog/20200914-kubernetes-tz)
