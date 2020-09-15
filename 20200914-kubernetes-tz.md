@@ -1,6 +1,6 @@
 # How to Change the Timezone in Kubernetes
 
-In the [previous post](https://evalle.xyz/posts/docker-compose-tz/) I've shown you how to change the timezone in a single Docker container or in your stack of Docker containers. But what if you already use Kubernetes for management of containerized applications? 
+In the [previous post](https://evalle.github.io/blog/20200913-docker-compose-tz) I've shown you how to change the timezone in a single Docker container or in your stack of Docker containers. But what if you already use Kubernetes for management of containerized applications? 
 
 First, let's find out which timezone our pods are using: imagine we have the following pod description (by the way, you should not create the pod from the yaml file directly, use [deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/) instead :) )
 
