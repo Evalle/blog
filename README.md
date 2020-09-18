@@ -12,6 +12,7 @@ Thank you.
 
 ### Posts
 
+- [18/09/20 - Using Ingress Controller in Kubernetes (part II)](https://evalle.github.io/blog/20200918-ingress-nginx-2)
 - [16/09/20 - Using Ingress Controller in Kubernetes (part I)](https://evalle.github.io/blog/20200917-ingress-nginx)
 - [15/09/20 - Hygiene of Docker Images](https://evalle.github.io/blog/20200915-docker-hygiene)
 - [14/09/20 - How to Change Time Zone in Docker Containers](https://evalle.github.io/blog/20200913-docker-compose-tz)
