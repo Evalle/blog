@@ -12,6 +12,7 @@ Thank you.
 
 ### Posts
 
+- [22/09/20 - Do Golang Web Apps Dream of Docker Images?](https://evalle.github.io/blog/20200922-golang-docker)
 - [18/09/20 - Using Ingress Controller in Kubernetes (part II)](https://evalle.github.io/blog/20200918-ingress-nginx-2)
 - [16/09/20 - Using Ingress Controller in Kubernetes (part I)](https://evalle.github.io/blog/20200917-ingress-nginx)
 - [15/09/20 - Hygiene of Docker Images](https://evalle.github.io/blog/20200915-docker-hygiene)
