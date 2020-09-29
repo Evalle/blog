@@ -12,7 +12,7 @@ Thank you.
 
 ### Posts
 
-- [29/09/20 - How to Enable Kubernetes Auditing with Kubeadm ](https://evalle.github.io/blog/220200929-how-to-enable-kubernetes-auditing-with-kubeadm)
+- [29/09/20 - How to Enable Kubernetes Auditing with Kubeadm ](https://evalle.github.io/blog/20200929-how-to-enable-kubernetes-auditing-with-kubeadm)
 - [22/09/20 - Do Golang Web Apps Dream of Docker Images?](https://evalle.github.io/blog/20200922-golang-docker)
 - [18/09/20 - Using Ingress Controller in Kubernetes (part II)](https://evalle.github.io/blog/20200918-ingress-nginx-2)
 - [16/09/20 - Using Ingress Controller in Kubernetes (part I)](https://evalle.github.io/blog/20200917-ingress-nginx)
