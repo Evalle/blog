@@ -12,6 +12,7 @@ Thank you.
 
 ### Posts
 
+- [30/09/20 - Kubernetes Authentication with GitHub and Guard ](https://evalle.github.io/blog/20200930-kubernetes-authentication-with-github-and-guard)
 - [29/09/20 - How to Enable Kubernetes Auditing with Kubeadm ](https://evalle.github.io/blog/20200929-how-to-enable-kubernetes-auditing-with-kubeadm)
 - [22/09/20 - Do Golang Web Apps Dream of Docker Images?](https://evalle.github.io/blog/20200922-golang-docker)
 - [18/09/20 - Using Ingress Controller in Kubernetes (part II)](https://evalle.github.io/blog/20200918-ingress-nginx-2)
