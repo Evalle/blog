@@ -10,22 +10,20 @@ I hope you will enjoy this guide!
 
 ## Table of Contents
 
-- [Kubernetes Authentication with GitHub and Guard](#kubernetes-authentication-with-github-and-guard)
-  - [Table of Contents](#table-of-contents)
-  - [Preparations](#preparations)
-    - [Kubernetes Cluster](#kubernetes-cluster)
-    - [GitHub Account](#github-account)
-    - [GitHub Organization](#github-organization)
-    - [Pre-Flight Checks](#pre-flight-checks)
-  - [Guard Installation](#guard-installation)
-    - [Install Guard as CLI](#install-guard-as-cli)
-    - [Initialize PKI](#initialize-pki)
-    - [Deploy Guard Server](#deploy-guard-server)
-  - [Configure Kubernetes API Server](#configure-kubernetes-api-server)
-  - [Issue Token](#issue-token)
-  - [Configure Kubectl](#configure-kubectl)
-  - [Testing](#testing)
-  - [Useful Links](#useful-links)
+- [Preparations](#preparations)
+  - [Kubernetes Cluster](#kubernetes-cluster)
+  - [GitHub Account](#github-account)
+  - [GitHub Organization](#github-organization)
+  - [Pre-Flight Checks](#pre-flight-checks)
+- [Guard Installation](#guard-installation)
+  - [Install Guard as CLI](#install-guard-as-cli)
+  - [Initialize PKI](#initialize-pki)
+  - [Deploy Guard Server](#deploy-guard-server)
+- [Configure Kubernetes API Server](#configure-kubernetes-api-server)
+- [Issue Token](#issue-token)
+- [Configure Kubectl](#configure-kubectl)
+- [Testing](#testing)
+- [Useful Links](#useful-links)
 
 ## Preparations
 ### Kubernetes Cluster
@@ -395,5 +393,5 @@ Kubernets cluster with GitHub authentication!
 
 ## Useful Links
 
-- [Guards' GitHub Authenticator](https://appscode.com/products/guard/0.6.1/guides/authenticator/github/)
-- [Guard's Installation Guide](https://appscode.com/products/guard/0.6.1/setup/install/)
+- [Guards' GitHub Authenticator](https://appscode.com/products/guard/v0.6.1/guides/authenticator/github/)
+- [Guard's Installation Guide](https://appscode.com/products/guard/v0.6.1/setup/install/)
