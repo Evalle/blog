@@ -12,6 +12,7 @@ Thank you.
 
 ### Posts
 
+- [06/10/20 - Kubernetes LDAP Authentication ](https://evalle.github.io/blog/20201006-kubernetes-ldap-authentication)
 - [02/10/20 - Kubernetes Authentication with GitLab and Guard ](https://evalle.github.io/blog/20201002-kubernetes-authentication-with-gitlab-and-guard)
 - [30/09/20 - Kubernetes Authentication with GitHub and Guard ](https://evalle.github.io/blog/20200930-kubernetes-authentication-with-github-and-guard)
 - [29/09/20 - How to Enable Kubernetes Auditing with Kubeadm ](https://evalle.github.io/blog/20200929-how-to-enable-kubernetes-auditing-with-kubeadm)
