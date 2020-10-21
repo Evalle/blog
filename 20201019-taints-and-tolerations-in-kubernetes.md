@@ -129,7 +129,6 @@ spec:
         value: testing
         effect: NoSchedule
 EOF
-deployment "testing" created
 ```
 
 The most important part here is:
@@ -169,5 +168,5 @@ Taints and tolerations can help you to create the dedicated nodes only for some 
 That's it! The most important thing that you should remember from this post is that if you add a Taint to the node, Pods will not be scheduled on it unless they Tolerate that Taint.  
 
 ## Useful links
-- [Official Kubernetes Documentation](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/)
 
+- [Official Kubernetes Documentation](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/)
