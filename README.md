@@ -12,6 +12,7 @@ Thank you.
 
 ### Posts
 
+- [23/10/20 - Notary ](https://evalle.github.io/blog/20201023-notary)
 - [19/10/20 - Taints and Tolerations in Kubernetes ](https://evalle.github.io/blog/20201019-taints-and-tolerations-in-kubernetes)
 - [06/10/20 - Kubernetes LDAP Authentication ](https://evalle.github.io/blog/20201006-kubernetes-ldap-authentication)
 - [02/10/20 - Kubernetes Authentication with GitLab and Guard ](https://evalle.github.io/blog/20201002-kubernetes-authentication-with-gitlab-and-guard)
